@@ -16,5 +16,4 @@ class Finish extends Component {
         )
     }
 }
-
 export default Finish
